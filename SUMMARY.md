@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Food security](README.md)
+* [Introduction](README.md)
 * [Assessments](assessments/README.md)
   * [Agriculture assessments](assessments/agriculture-assessments.md)
   * [Affected agriculture](assessments/affected-agriculture.md)
