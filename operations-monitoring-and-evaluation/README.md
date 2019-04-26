@@ -1,2 +1,2 @@
-# Operations, Monitoring and evaluation
+# Operations, monitoring and evaluation
 
