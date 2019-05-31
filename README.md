@@ -6,7 +6,7 @@ _Ever had some data and wanted it mapped but what to request or how it could be 
 
 Summarising the collective knowledge and experience of over 15 years of humanitarian mapping, the example product catalogue provides examples of the different types of humanitarian maps that can be produced at different stages during a response.
 
-![](.gitbook/assets/epc-homepage.jpg)
+![Home page of example product catalogue](.gitbook/assets/epc-homepage.jpg)
 
 A collection of about 50 maps that can be found in a response form the basis of the example product catalogue and can be found at [guides.mapaction.org](https://guides.mapaction.org) which was initially funded by ECHO. 
 
